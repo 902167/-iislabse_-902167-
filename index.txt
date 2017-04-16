@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
+	</head>
+	
+	<body>
+
+		<nav class="navbar navbar-default">
+			<div class="navbar-header">
+			<a class="navbar-brand" href="#">IISlabSE</a>
+			</div>
+
+			<div class="collapse navbar-collapse">
+				<ul class="nav navbar-nav">
+				<li><a href="#section1">Revision control systems</a></li>
+				<li><a href="#section2">Distributed revision control system</a></li>
+				
+				</ul>
+
+				</div>
+
+				</nav>
+
+				<section id="section1" class="panel panel-default">
+					<div class="panel-heading">
+					<h3 class="panel-title">Revision control systems</h3>
+					</div>
+					<div class="panel-body">
+					Revision control system - a software for tracing changes mainly in a s
+					ource code
+				</div>
+				<footer class="panel-footer">
+					<a href="http://en.wikipedia.org/wiki/Revision_control">Wikipedia</a>
+					
+					</footer>
+
+					</section>
+					
+					<section id="section2 class="panel panel-default">
+						<div class="panel-heading">
+						<h3 class="panel-title">Distributed revision control system.</h3
+						</div>
+						<div class="panel-body">
+						In distributed revision control systems (such as Git, Mercurial...)
+						</div>
+						
+						<footer class="panel-footer">
+							<a href="http://git-scm.com/book>Git manual</a>
+						</footer>
+						
+						<section id="section3" class="panel panel-default">
+							<div class="panel-heading">
+							<h3 class="panel-title">Centralized revision control system.</h3>
+
+						</div>
+
+						<div class="panel-body">
+						In centralized revision control systems, there is  one central repository, stroring all units subjected...
+						</div>
+						<footer class="panel-footer">
+							<a href="http://git-scm.com/book>Git - manual</a>
+							</footer>
+							</section>
+							<footer class="footer pull-right">
+								Devoloped by me in the class 'GIT system' during SE laboratory in <a heref="http://www.iis.p.lodz.pl/"> IACS PL</a>
+								</footer>
+								</body>
+								</html>
+								
