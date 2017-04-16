@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head><meta http://="Content-Type" content ="text/html; charset=utf-8">
+<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+<section id="selection2" class="panel panel-default">
+	<div class="panel-heading">
+	<h3 class="panel-title"> Distributed revsion control system.</h3>
+	</div>
+	<div class="panel-body">
+	In distributed revision control systems (sush as Git, Mercurial, Bazaar lub Darcs) clients do not get acess  only to the news version of files but they copy the whole repository...
+	</div>
+
+	<footer class="panel-footer">
+		<a href="http://git-scm.com/book/en/Getting-Started-About-Version-Control#Distributed-Version-Control-Systems"> Git - manual</a>
+		</footer>
+		</section>
+		</body>
+		</html>
+
+	
