@@ -8,7 +8,7 @@
 
 		<nav class="navbar navbar-default">
 			<div class="navbar-header">
-			<a class="navbar-brand" href="#">IISlabSE</a>
+			<a class="navbar-brand" href="#">902167</a>
 			</div>
 
 			<div class="collapse navbar-collapse">
